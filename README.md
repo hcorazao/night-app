@@ -1,5 +1,5 @@
 # Night App Template
-Bar and nightclub finder app
+Bar and nightclub CRM app
 
 ## Backend initial template:
 
